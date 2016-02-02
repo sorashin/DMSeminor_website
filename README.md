@@ -20,6 +20,7 @@ __太字__
 ※期限がまもなくなったらロリポップからメールがきます。  
 ここからログインして
 [ロリポップ](https://user.lolipop.jp/)  
-`ロリポップアカウント：http://kusahara.hippy.jp`
-`パスワード：kusa0150hara`
-を入力
+`**ロリポップアカウント：http://kusahara.hippy.jp**`  
+`**パスワード：kusa0150hara**`  
+を入力  
+
